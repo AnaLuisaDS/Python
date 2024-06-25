@@ -8,51 +8,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="097dfbf4-e24f-49d5-bf7c-592f6f1879dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios(5 6 7 8 9).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notes/music.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notes/notes003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notes/notes004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notes/notes005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notes/notes006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notes/notes007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notes/notes008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio031.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio034.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios-Python/desafio001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios-Python/desafio002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio003.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios-Python/desafio003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios-Python/desafio004.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
