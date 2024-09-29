@@ -15,7 +15,6 @@ dividido = frase.split()
 print(dividido[0])
 print(dividido[1][3])
 
-
 trocar = '-'
 frase1 = 'Ana Luisa Moreira Dos Santos'
 print(trocar.join(frase1))
@@ -27,10 +26,6 @@ print(result)
 
 items1 = ['apple banana cherry']
 print("-".join(items1))
-
-
-
-
 
 import pygame
 pygame.init()

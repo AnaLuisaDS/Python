@@ -23,8 +23,6 @@ print('O duplo do número {}, é {}, o tríplo é {} e a raiz quadrada, é {}' .
 number = int(input('Digite um número:'))
 print(f'O duplo do número {number}, é {number*2}, o tríplo é {number*3} e a raiz quadrada, é {number**(1/2)}')
 
-
-
 """ Desafio 007 -  Faça um programa que leia as duas notas de um aluno, depois calcule 
 e mostre a sua média entre as notas."""
 

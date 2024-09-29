@@ -8,11 +8,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="097dfbf4-e24f-49d5-bf7c-592f6f1879dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notes/notes009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio040.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio041.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio044.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio056.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio057.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio058.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio059.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio060.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/desafio063.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/music3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Python/project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/notes010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/notes011.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios-Python/Desafios(5 6 7 8 9).py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios-Python/Desafios(5 6 7 8 9).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios-Python/desafio009.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios-Python/desafio009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios-Python/desafio037.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios-Python/desafio037.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Notes/notes007.py" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/notes007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/notes008.py" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/notes008.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +77,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.Desafios(5 6 7 8 9).executor&quot;: &quot;Run&quot;,
     &quot;Python.Desafios5678.executor&quot;: &quot;Run&quot;,
     &quot;Python.desafio001 (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.desafio001.executor&quot;: &quot;Run&quot;,
@@ -83,7 +115,34 @@
     &quot;Python.desafio034.executor&quot;: &quot;Run&quot;,
     &quot;Python.desafio035.executor&quot;: &quot;Run&quot;,
     &quot;Python.desafio036.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio037 (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.desafio037.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio038.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio039.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio040.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio041.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio042.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio043.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio044.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio045.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.desafio046.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio047.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio048.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio049.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio050.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio051.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio052.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio053.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio054.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio055.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio056.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio057.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio058.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio059.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio060.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio061.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio062.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio063.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex000.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex001 (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
@@ -96,13 +155,16 @@
     &quot;Python.notes007.executor&quot;: &quot;Run&quot;,
     &quot;Python.notes008.executor&quot;: &quot;Run&quot;,
     &quot;Python.notes009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.notes010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.notes011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.project.executor&quot;: &quot;Run&quot;,
     &quot;Python.text-one.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Rebasing master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ana Luisa/PycharmProjects&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ana Luisa/PycharmProjects/PythonProject/Desafios-Python&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -114,6 +176,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ana Luisa\PycharmProjects\PythonProject\Desafios-Python" />
       <recent name="C:\Users\Ana Luisa\PycharmProjects" />
       <recent name="C:\Users\Ana Luisa\PycharmProjects\PythonProject\Notes\notes006" />
       <recent name="C:\Users\Ana Luisa\PycharmProjects\PythonProject\Notes" />
@@ -124,31 +187,8 @@
       <recent name="C:\Users\Ana Luisa\PycharmProjects\PythonProject\Notes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.desafio035">
-    <configuration name="desafio035" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Ana Luisa\PycharmProjects\PythonProject\Desafios-Python\desafio035.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="desafio036" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.desafio063">
+    <configuration name="Desafios(5 6 7 8 9)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,7 +202,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios-Python/desafio036.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios-Python/Desafios(5 6 7 8 9).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +211,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio037" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio060" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,12 +220,81 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios-Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Ana Luisa\PycharmProjects\PythonProject\Desafios-Python\desafio037.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios-Python/desafio060.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio061" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios-Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios-Python/desafio061.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio062" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios-Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios-Python/desafio062.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio063" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios-Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios-Python/desafio063.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,59 +326,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="notes007" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Notes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Notes/notes007.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="notes009" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Notes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Notes/notes009.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.desafio035" />
-        <item itemvalue="Python.desafio037" />
-        <item itemvalue="Python.desafio036" />
-        <item itemvalue="Python.notes009" />
-        <item itemvalue="Python.notes007" />
+        <item itemvalue="Python.desafio063" />
+        <item itemvalue="Python.desafio062" />
+        <item itemvalue="Python.Desafios(5 6 7 8 9)" />
+        <item itemvalue="Python.desafio061" />
+        <item itemvalue="Python.desafio060" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +373,32 @@
       <workItem from="1719239078692" duration="106000" />
       <workItem from="1719239253838" duration="666000" />
       <workItem from="1719415628611" duration="11642000" />
-      <workItem from="1719454726425" duration="1443000" />
+      <workItem from="1719454726425" duration="11049000" />
+      <workItem from="1719538009059" duration="20630000" />
+      <workItem from="1720047705149" duration="13865000" />
+      <workItem from="1720192195130" duration="509000" />
+      <workItem from="1720241828084" duration="11223000" />
+      <workItem from="1720381615865" duration="14045000" />
+      <workItem from="1720497415690" duration="44000" />
+      <workItem from="1720497485531" duration="5761000" />
+      <workItem from="1720644850013" duration="11768000" />
+      <workItem from="1720731999819" duration="10311000" />
+      <workItem from="1720993117110" duration="340000" />
+      <workItem from="1720994367876" duration="2252000" />
+      <workItem from="1721427323692" duration="679000" />
+      <workItem from="1722363841685" duration="6235000" />
+      <workItem from="1722581671590" duration="1970000" />
+      <workItem from="1722653094923" duration="1023000" />
+      <workItem from="1722742733532" duration="2577000" />
+      <workItem from="1722965612058" duration="2686000" />
+      <workItem from="1723155293077" duration="55000" />
+      <workItem from="1723518531668" duration="1323000" />
+      <workItem from="1723939092307" duration="859000" />
+      <workItem from="1727097385269" duration="11341000" />
+      <workItem from="1727128300769" duration="7657000" />
+      <workItem from="1727145577246" duration="1111000" />
+      <workItem from="1727314150915" duration="4252000" />
+      <workItem from="1727576169029" duration="376000" />
     </task>
     <servers />
   </component>
@@ -328,9 +416,51 @@
       </map>
     </option>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Desafios-Python/desafio035.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Desafios-Python/desafio042.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Desafios-Python/desafio043.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Desafios-Python/desafio056.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Desafios-Python/desafio061.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio042.coverage" NAME="desafio042 Coverage Results" MODIFIED="1719710852067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
     <SUITE FILE_PATH="coverage/desafio034_py$desafio036.coverage" NAME="desafio036 Coverage Results" MODIFIED="1719450931301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio045.coverage" NAME="desafio045 Coverage Results" MODIFIED="1720048045987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio001__1_.coverage" NAME="desafio001 (1) Coverage Results" MODIFIED="1717908682752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio051.coverage" NAME="desafio051 Coverage Results" MODIFIED="1727100268706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
+    <SUITE FILE_PATH="coverage/desafio034_py$notes011.coverage" NAME="notes011 Coverage Results" MODIFIED="1722473581598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Notes" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio030.coverage" NAME="desafio030 Coverage Results" MODIFIED="1718672808510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$ex003.coverage" NAME="ex003 Coverage Results" MODIFIED="1717881642687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$ex000.coverage" NAME="ex000 Coverage Results" MODIFIED="1717703315863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -338,48 +468,76 @@
     <SUITE FILE_PATH="coverage/PythonProject$desafio027.coverage" NAME="desafio027 Coverage Results" MODIFIED="1718561356806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio033.coverage" NAME="desafio033 Coverage Results" MODIFIED="1718953180113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio018.coverage" NAME="desafio018 Coverage Results" MODIFIED="1719100134650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/desafio034_py$project.coverage" NAME="project Coverage Results" MODIFIED="1722363967016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio035.coverage" NAME="desafio035 Coverage Results" MODIFIED="1719037764212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio006.coverage" NAME="desafio006 Coverage Results" MODIFIED="1717913560577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio055.coverage" NAME="desafio055 Coverage Results" MODIFIED="1720647129692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
     <SUITE FILE_PATH="coverage/PythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1717699174799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio049.coverage" NAME="desafio049 Coverage Results" MODIFIED="1720127314105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
+    <SUITE FILE_PATH="coverage/desafio034_py$Desafios_5_6_7_8_9_.coverage" NAME="Desafios(5 6 7 8 9) Coverage Results" MODIFIED="1727314796370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio043.coverage" NAME="desafio043 Coverage Results" MODIFIED="1719695294624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio029.coverage" NAME="desafio029 Coverage Results" MODIFIED="1718670799887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio012.coverage" NAME="desafio012 Coverage Results" MODIFIED="1717978670786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio061.coverage" NAME="desafio061 Coverage Results" MODIFIED="1727128858098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
     <SUITE FILE_PATH="coverage/desafio034_py$desafio037.coverage" NAME="desafio037 Coverage Results" MODIFIED="1719453030835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$notes008.coverage" NAME="notes008 Coverage Results" MODIFIED="1719037892363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Notes" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio011.coverage" NAME="desafio011 Coverage Results" MODIFIED="1718060947846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio005.coverage" NAME="desafio005 Coverage Results" MODIFIED="1717913445223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio060.coverage" NAME="desafio060 Coverage Results" MODIFIED="1727105561897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio023.coverage" NAME="desafio023 Coverage Results" MODIFIED="1718426935004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio054.coverage" NAME="desafio054 Coverage Results" MODIFIED="1720503313603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
     <SUITE FILE_PATH="coverage/PythonProject$Desafios5678.coverage" NAME="Desafios5678 Coverage Results" MODIFIED="1717887533052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$ex002.coverage" NAME="ex002 Coverage Results" MODIFIED="1717704954904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio017.coverage" NAME="desafio017 Coverage Results" MODIFIED="1718153357579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio048.coverage" NAME="desafio048 Coverage Results" MODIFIED="1720130014425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
     <SUITE FILE_PATH="coverage/PythonProject$ex001__1_.coverage" NAME="desafio001 Coverage Results" MODIFIED="1717900548351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio016.coverage" NAME="desafio016 Coverage Results" MODIFIED="1718152497536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio022.coverage" NAME="desafio022 Coverage Results" MODIFIED="1718424382020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio062.coverage" NAME="desafio062 Coverage Results" MODIFIED="1727315369440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio028.coverage" NAME="desafio028 Coverage Results" MODIFIED="1718932138383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio025.coverage" NAME="desafio025 Coverage Results" MODIFIED="1718422284374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio059.coverage" NAME="desafio059 Coverage Results" MODIFIED="1722748759586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio034.coverage" NAME="desafio034 Coverage Results" MODIFIED="1718958967166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$ex004.coverage" NAME="ex004 Coverage Results" MODIFIED="1717885021767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio019.coverage" NAME="desafio019 Coverage Results" MODIFIED="1718288175743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio037__1_.coverage" NAME="desafio037 (1) Coverage Results" MODIFIED="1719503502746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio050.coverage" NAME="desafio050 Coverage Results" MODIFIED="1720130009575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
+    <SUITE FILE_PATH="coverage/desafio034_py$notes010.coverage" NAME="notes010 Coverage Results" MODIFIED="1720192394690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Notes" />
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio053.coverage" NAME="desafio053 Coverage Results" MODIFIED="1720649161546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
     <SUITE FILE_PATH="coverage/desafio034_py$notes007.coverage" NAME="notes007 Coverage Results" MODIFIED="1719416151329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Notes" />
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio041.coverage" NAME="desafio041 Coverage Results" MODIFIED="1719540982358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio056.coverage" NAME="desafio056 Coverage Results" MODIFIED="1722451793130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio007.coverage" NAME="desafio007 Coverage Results" MODIFIED="1717913784476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio031.coverage" NAME="desafio031 Coverage Results" MODIFIED="1718674033728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio047.coverage" NAME="desafio047 Coverage Results" MODIFIED="1720059388847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
     <SUITE FILE_PATH="coverage/PythonProject$text_one.coverage" NAME="text-one Coverage Results" MODIFIED="1717703340606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/OneDrive/Documentos/Script Python" />
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio038.coverage" NAME="desafio038 Coverage Results" MODIFIED="1719505918859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
     <SUITE FILE_PATH="coverage/PythonProject$notes007.coverage" NAME="notes007 Coverage Results" MODIFIED="1719100143533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Notes" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio010.coverage" NAME="desafio010 Coverage Results" MODIFIED="1717991602603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio013.coverage" NAME="desafio013 Coverage Results" MODIFIED="1717982543901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio044.coverage" NAME="desafio044 Coverage Results" MODIFIED="1720248209557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
     <SUITE FILE_PATH="coverage/PythonProject$notes004.coverage" NAME="notes004 Coverage Results" MODIFIED="1718060830412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Notes" />
     <SUITE FILE_PATH="coverage/desafio034_py$desafio035.coverage" NAME="desafio035 Coverage Results" MODIFIED="1719460860685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio004.coverage" NAME="desafio004 Coverage Results" MODIFIED="1717908215008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio003.coverage" NAME="desafio003 Coverage Results" MODIFIED="1717992736708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio009.coverage" NAME="desafio009 Coverage Results" MODIFIED="1717974565632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio058.coverage" NAME="desafio058 Coverage Results" MODIFIED="1722632951890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio052.coverage" NAME="desafio052 Coverage Results" MODIFIED="1727102237446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio020.coverage" NAME="desafio020 Coverage Results" MODIFIED="1718287990801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio046.coverage" NAME="desafio046 Coverage Results" MODIFIED="1723519260874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio015.coverage" NAME="desafio015 Coverage Results" MODIFIED="1718118583466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/desafio034_py$notes009.coverage" NAME="notes009 Coverage Results" MODIFIED="1719449266848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Notes" />
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio009.coverage" NAME="desafio009 Coverage Results" MODIFIED="1720127384090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
     <SUITE FILE_PATH="coverage/PythonProject$notes006.coverage" NAME="notes006 Coverage Results" MODIFIED="1718362652587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Notes" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio021.coverage" NAME="desafio021 Coverage Results" MODIFIED="1718932196901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$notes005.coverage" NAME="notes005 Coverage Results" MODIFIED="1718153639361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Notes" />
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio063.coverage" NAME="desafio063 Coverage Results" MODIFIED="1727576182057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio014.coverage" NAME="desafio014 Coverage Results" MODIFIED="1717991612859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio057.coverage" NAME="desafio057 Coverage Results" MODIFIED="1722746408091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio040.coverage" NAME="desafio040 Coverage Results" MODIFIED="1719539772035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio026.coverage" NAME="desafio026 Coverage Results" MODIFIED="1718561761427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio008.coverage" NAME="desafio008 Coverage Results" MODIFIED="1717974520231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/desafio034_py$desafio039.coverage" NAME="desafio039 Coverage Results" MODIFIED="1719538707593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desafios-Python" />
     <SUITE FILE_PATH="coverage/PythonProject$desafio032.coverage" NAME="desafio032 Coverage Results" MODIFIED="1718951252991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

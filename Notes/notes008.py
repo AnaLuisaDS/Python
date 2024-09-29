@@ -10,3 +10,8 @@ color = {'fechar': '\033[m',
          'azul':'\033[4:34m',
          'amarelo':'\033[7:33m',}
 print('Tem {} {} letras A{} em seu nome! '.format(color['azul'], name_end, color['fechar']))
+
+#Explicação exercício 038
+#Se num for maior que num1, imprime que o primeiro valor é maior e o segundo é menor.
+#Se num1 for maior que num, imprime que o segundo valor é maior e o primeiro é menor.
+#Se forem iguais, imprime que os valores são iguais.
